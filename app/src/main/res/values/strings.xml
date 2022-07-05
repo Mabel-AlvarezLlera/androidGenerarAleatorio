@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">generarAleatorio</string>
+    <string name="app_name">Generar aleatorio</string>
+    <string name="numero_limite">Número límite:</string>
+    <string name="generar_numero">Generar número</string>
 </resources>
