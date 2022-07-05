@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random generate</string>
+    <string name="numero_limite">Limit number:</string>
+    <string name="generar_numero">Generate random</string>
+    <string name="rango_incorrecto">Incorrect range</string>
+    <string name="campo_rango">Field for the number range</string>
+</resources>
