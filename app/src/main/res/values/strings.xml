@@ -2,4 +2,6 @@
     <string name="app_name">Generar aleatorio</string>
     <string name="numero_limite">Número límite:</string>
     <string name="generar_numero">Generar número</string>
+    <string name="rango_incorrecto">Rango incorrecto</string>
+    <string name="campo_rango">Campo para el rango del número</string>
 </resources>
