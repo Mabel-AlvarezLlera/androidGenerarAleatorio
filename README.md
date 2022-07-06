@@ -9,9 +9,11 @@ En ella se generará un número aleatorio dentro del rango desde 1 hasta el núm
 ## Capturas
 
 La pantalla inicial es la siguiente:
+
 ![Pantalla inicial](/images/captura_inicial_reducida.png)
 
 Y esta sería una pantalla de la aplicación funcionando:
+
 ![Pantalla funcionado](/images/captura_funcionado_reducida.png)
 
 ## Elementos prácticados y aprendidos
