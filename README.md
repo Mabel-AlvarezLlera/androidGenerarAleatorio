@@ -16,7 +16,7 @@ Y esta sería una pantalla de la aplicación funcionando:
 
 ![Pantalla funcionado](/images/captura_funcionado_reducida.png)
 
-## Elementos prácticados y aprendidos
+## Elementos practicados y aprendidos
 
 En esta aplicación trabajé:
 - Kotlin.
